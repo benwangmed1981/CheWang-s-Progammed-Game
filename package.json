@@ -1,0 +1,15 @@
+{
+  "name": "3d-flight-simulator",
+  "version": "1.0.0",
+  "description": "一个简单的3D飞行模拟器",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx vite"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10"
+  }
+} 
